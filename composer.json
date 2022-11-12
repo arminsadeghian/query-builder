@@ -1,0 +1,16 @@
+{
+  "name": "armin/query-builder",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src"
+    }
+  },
+  "license": "MIT",
+  "require-dev": {
+    "larapack/dd": "^1.1"
+  },
+  "require": {
+    "ext-pdo": "*",
+    "vlucas/phpdotenv": "^5.5"
+  }
+}
